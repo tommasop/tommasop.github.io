@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://na74.it/sitemap.xml
