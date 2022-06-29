@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>NA74</title>
-    <link href="http://na74.it/feed.xml" rel="self" />
-    <link href="http://na74.it" />
+    <link href="https://na74.it/feed.xml" rel="self" />
+    <link href="https://na74.it" />
     <updated>2022-06-29T18:41:07+02:00</updated>
     <author>
         <name>Tommaso Patrizi</name>
     </author>
-    <id>http://na74.it</id>
+    <id>https://na74.it</id>
 
     <entry>
         <title>Contributo Fondo Perduto</title>
         <author>
             <name>Tommaso Patrizi</name>
         </author>
-        <link href="http://na74.it/contributo-fondo-perduto/"/>
-        <id>http://na74.it/contributo-fondo-perduto/</id>
+        <link href="https://na74.it/contributo-fondo-perduto/"/>
+        <id>https://na74.it/contributo-fondo-perduto/</id>
 
         <updated>2022-06-29T18:40:59+02:00</updated>
             <summary>
@@ -34,19 +34,19 @@
         <author>
             <name>Tommaso Patrizi</name>
         </author>
-        <link href="http://na74.it/san-massimiliano-kolbe/"/>
-        <id>http://na74.it/san-massimiliano-kolbe/</id>
+        <link href="https://na74.it/san-massimiliano-kolbe/"/>
+        <id>https://na74.it/san-massimiliano-kolbe/</id>
 
         <updated>2022-06-29T18:36:21+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://na74.it/media/posts/4/san_massimiliano_kolbe.JPG" alt="" />
+                        <img src="https://na74.it/media/posts/4/san_massimiliano_kolbe.JPG" alt="" />
                     Complesso parrocchiale San Massimmiliano Kolbe in Roma, zona Prato Fiorito. Opera realizzata&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://na74.it/media/posts/4/san_massimiliano_kolbe.JPG" alt="" />
+                    <img src="https://na74.it/media/posts/4/san_massimiliano_kolbe.JPG" alt="" />
                 <p>Complesso parrocchiale San Massimmiliano Kolbe in Roma, zona Prato Fiorito.</p>
 <p><br>Opera realizzata all’interno di un piano per la costruzione di 50 nuove chiese in Roma.</p>
 <p><br>All’esterno è caratterizzato da una cupola rivestita di metallo dorato ed all’interno da un grande retablo ,opera del pittore Kiko Arguello. Infine le aule pastorali si affacciano su di una piazza centrale coperta da una copertura in cristallo.</p>
@@ -60,19 +60,19 @@
         <author>
             <name>Tommaso Patrizi</name>
         </author>
-        <link href="http://na74.it/seminario-di-macerata/"/>
-        <id>http://na74.it/seminario-di-macerata/</id>
+        <link href="https://na74.it/seminario-di-macerata/"/>
+        <id>https://na74.it/seminario-di-macerata/</id>
 
         <updated>2022-06-29T18:35:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://na74.it/media/posts/3/seminario_di_macerata.jpg" alt="" />
+                        <img src="https://na74.it/media/posts/3/seminario_di_macerata.jpg" alt="" />
                     Seminario Diocesano Redemptoris Mater di Macerata Vincitore di un concorso per la&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://na74.it/media/posts/3/seminario_di_macerata.jpg" alt="" />
+                    <img src="https://na74.it/media/posts/3/seminario_di_macerata.jpg" alt="" />
                 <p>Seminario Diocesano Redemptoris Mater di Macerata</p>
 <p><br>Vincitore di un concorso per la realizzazione di residenze a basso costo per la accoglienza durante il giubileo dell’anno 2000 ,successivamente e stato destinato a seminario diocesano.</p>
 <p><br>Il complesso è costituito da spazi di accoglienza , di relazioni , liturgici e residenziali con una capacità di 72 posti letto.</p>
@@ -86,19 +86,19 @@
         <author>
             <name>Tommaso Patrizi</name>
         </author>
-        <link href="http://na74.it/nostra-signora-darabia/"/>
-        <id>http://na74.it/nostra-signora-darabia/</id>
+        <link href="https://na74.it/nostra-signora-darabia/"/>
+        <id>https://na74.it/nostra-signora-darabia/</id>
 
         <updated>2022-06-29T18:31:49+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://na74.it/media/posts/2/nostra_signora_del_bahrein.JPG" alt="Nostra Signora d&#x27;Arabia" />
+                        <img src="https://na74.it/media/posts/2/nostra_signora_del_bahrein.JPG" alt="Nostra Signora d&#x27;Arabia" />
                     Cattedrale dedicata a Nostra Signora d’Arabia in Awali - Bahrein Vincitore di&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://na74.it/media/posts/2/nostra_signora_del_bahrein.JPG" alt="Nostra Signora d&#x27;Arabia" />
+                    <img src="https://na74.it/media/posts/2/nostra_signora_del_bahrein.JPG" alt="Nostra Signora d&#x27;Arabia" />
                 <p>Cattedrale dedicata a Nostra Signora d’Arabia in Awali - Bahrein</p>
 <p>Vincitore di un concorso internazionale il complesso a pianta centrale di mt.50 di diametro, è  costituito da una aula centrale che può ospitare su due livelli 2300 persone ed è sovrastata da una cupola di 28 mt. di diametro.</p>
 <hr>
@@ -111,8 +111,8 @@
         <author>
             <name>Tommaso Patrizi</name>
         </author>
-        <link href="http://na74.it/chi-siamo/"/>
-        <id>http://na74.it/chi-siamo/</id>
+        <link href="https://na74.it/chi-siamo/"/>
+        <id>https://na74.it/chi-siamo/</id>
 
         <updated>2022-06-29T18:41:07+02:00</updated>
             <summary>
